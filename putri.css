@@ -1,0 +1,20 @@
+td{
+    background: sandybrown;
+    cursor: pointer;
+    transition: 2s;
+ }
+ td:hover{
+        background: white;
+ }
+.tabelku{
+        width: 100%;
+         max-width: 500px;
+}
+.endase-tabel {
+    background-color: rgb(216, 89, 16);
+}
+body{
+    background-color: powderblue;
+
+
+}
